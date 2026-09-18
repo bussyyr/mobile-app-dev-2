@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Hollow Knight",
+    "genre": "Metroidvania",
+    "developer": "Team Cherry",
+    "releaseYear": 2017,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "description": "Explore the vast ruined kingdom of Hallownest, battle dangerous creatures and uncover the mysteries hidden beneath the surface."
+  },
+  {
+    "id": 2,
+    "title": "Stardew Valley",
+    "genre": "Simulation RPG",
+    "developer": "ConcernedApe",
+    "releaseYear": 2016,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "description": "Build the farm of your dreams, meet the local community, explore caves and create a new life in Stardew Valley."
+  },
+  {
+    "id": 3,
+    "title": "Unpacking",
+    "genre": "Puzzle",
+    "developer": "Witch Beam",
+    "releaseYear": 2021,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1135690/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "description": "Unpack boxes and arrange belongings across different homes while discovering a quiet story through everyday objects."
+  },
+  {
+    "id": 4,
+    "title": "League of Legends",
+    "genre": "MOBA",
+    "developer": "Riot Games",
+    "releaseYear": 2009,
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+    "platforms": ["PC", "Mac"],
+    "description": "Choose a champion, work with your team and battle to destroy the enemy Nexus in a competitive 5v5 strategy game."
+  },
+  {
+    "id": 5,
+    "title": "Project Zomboid",
+    "genre": "Survival",
+    "developer": "The Indie Stone",
+    "releaseYear": 2013,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg",
+    "platforms": ["PC", "Mac", "Linux"],
+    "description": "Survive for as long as possible in a detailed zombie apocalypse by scavenging supplies, building shelter and managing hunger, injury and fear."
+  },
+  {
+    "id": 6,
+    "title": "Dave the Diver",
+    "genre": "Adventure RPG",
+    "developer": "MINTROCKET",
+    "releaseYear": 2023,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg",
+    "platforms": ["PC", "PlayStation", "Nintendo Switch"],
+    "description": "Dive into the Blue Hole by day to catch fish and explore, then help run a sushi restaurant by night in a charming adventure RPG."
+  },
+  {
+    "id": 7,
+    "title": "Teamfight Tactics",
+    "genre": "Auto Battler",
+    "developer": "Riot Games",
+    "imageUrl": "https://cdn1.epicgames.com/offer/ada73cc2d68a46a18f529ebb87328dee/EGS_TeamfightTactics_RiotGames_S1_2560x1440-7169170239c742b19f85abb788ea1e3f",
+    "releaseYear": 2019,
+    "platforms": ["PC", "Mac", "Mobile"],
+    "description": "Build a team of champions, position them on the board and adapt your strategy through automated tactical battles."
+  },
+  {
+    "id": 8,
+    "title": "Cities: Skylines",
+    "genre": "City Builder",
+    "developer": "Colossal Order",
+    "releaseYear": 2015,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "description": "Design, build and manage a growing city while balancing traffic, services, budgets and the needs of your citizens."
+  },
+  {
+    "id": 9,
+    "title": "Cook, Serve, Delicious! 3?!",
+    "genre": "Cooking Simulation",
+    "developer": "Vertigo Gaming",
+    "releaseYear": 2020,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1000030/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "description": "Prepare meals at high speed in a chaotic food truck road trip across a war-torn future America."
+  },
+  {
+    "id": 10,
+    "title": "Don't Starve Together",
+    "genre": "Survival",
+    "developer": "Klei Entertainment",
+    "releaseYear": 2016,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/322330/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "description": "Gather resources, craft tools and survive a strange wilderness with friends while managing hunger, sanity and danger."
+  },
+  {
+    "id": 11,
+    "title": "Kitty Powers' Matchmaker",
+    "genre": "Dating Simulation",
+    "developer": "Magic Notion",
+    "releaseYear": 2015,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/285740/header.jpg",
+    "platforms": ["PC", "Mobile"],
+    "description": "Run a dating agency, match clients by personality and guide them through dates in a colorful matchmaking simulation."
+  },
+  {
+    "id": 12,
+    "title": "Life is Strange",
+    "genre": "Narrative Adventure",
+    "developer": "DONTNOD Entertainment",
+    "releaseYear": 2015,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/319630/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Mobile"],
+    "description": "Follow Max Caulfield as she discovers she can rewind time and faces emotional choices in a story-driven adventure."
+  },
+  {
+    "id": 13,
+    "title": "Overcooked! 2",
+    "genre": "Co-op Cooking",
+    "developer": "Ghost Town Games",
+    "releaseYear": 2018,
+    "imageUrl": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg",
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "description": "Work together in chaotic kitchens, prepare orders under pressure and overcome moving stages with friends."
+  }
+]
