@@ -69,7 +69,7 @@ The project also includes platform-specific development examples using `Platform
       Retrieved API data
     </td>
     <td align="center">
-      <img src="screenshots/08-api-loading-or-error.png" alt="Loading or error state" width="220" />
+      <img src="screenshots/08-api-loading.png" alt="Loading or error state" width="220" />
       <br />
       Loading or error state
     </td>
@@ -86,7 +86,7 @@ The project also includes platform-specific development examples using `Platform
       Deal details
     </td>
     <td align="center">
-      <img src="screenshots/11-platform-specific.png" alt="Platform-specific implementation" width="220" />
+      <img src="screenshots/11-platform-specific-android.png" alt="Platform-specific implementation" width="220" />
       <br />
       Platform-specific UI
     </td>
