@@ -89,6 +89,16 @@ export default function HomeScreen({
         >
           Browse Games
         </Button>
+
+        <Button
+          mode="outlined"
+          icon="api"
+          onPress={() => navigation.navigate("ApiPosts")}
+          style={styles.apiButton}
+          contentStyle={styles.buttonContent}
+        >
+          Game Deals API
+        </Button>
       </View>
     </View>
   );
@@ -142,6 +152,10 @@ const styles = StyleSheet.create({
 
   browseButton: {
     marginTop: 12,
+  },
+
+  apiButton: {
+    marginTop: 10,
   },
 
   buttonContent: {

@@ -13,6 +13,8 @@ import {
 import HomeScreen from "./screens/HomeScreen";
 import BrowseScreen from "./screens/BrowseScreen";
 import GameDetailsScreen from "./screens/GameDetailsScreen";
+import ApiPostsScreen from "./screens/ApiPostsScreen";
+import DealDetailsScreen from "./screens/PostDetailsScreen";
 import { colors } from "./constants/colors";
 
 const Stack = createNativeStackNavigator();
@@ -118,6 +120,16 @@ export default function App() {
               />
             )}
           </Stack.Screen>
+
+          <Stack.Screen
+            name="ApiPosts"
+            component={ApiPostsScreen}
+          />
+
+          <Stack.Screen
+            name="DealDetails"
+            component={DealDetailsScreen}
+          />
         </Stack.Navigator>
       </NavigationContainer>
     </PaperProvider>
