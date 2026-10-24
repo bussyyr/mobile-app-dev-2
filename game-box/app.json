@@ -32,7 +32,8 @@
         {
           "locationWhenInUsePermission": "Allow GameBox to use your location to display your current coordinates."
         }
-      ]
+      ],
+      "expo-status-bar"
     ]
   }
 }
