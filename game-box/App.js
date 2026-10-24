@@ -15,6 +15,9 @@ import BrowseScreen from "./screens/BrowseScreen";
 import GameDetailsScreen from "./screens/GameDetailsScreen";
 import ApiPostsScreen from "./screens/ApiPostsScreen";
 import DealDetailsScreen from "./screens/PostDetailsScreen";
+import LinkingScreen from "./screens/LinkingScreen";
+import SensorsScreen from "./screens/SensorsScreen";
+import LocationScreen from "./screens/LocationScreen";
 import { colors } from "./constants/colors";
 
 const Stack = createNativeStackNavigator();
@@ -129,6 +132,21 @@ export default function App() {
           <Stack.Screen
             name="DealDetails"
             component={DealDetailsScreen}
+          />
+
+          <Stack.Screen
+            name="Linking"
+            component={LinkingScreen}
+          />
+
+          <Stack.Screen
+            name="Sensors"
+            component={SensorsScreen}
+          />
+
+          <Stack.Screen
+            name="Location"
+            component={LocationScreen}
           />
         </Stack.Navigator>
       </NavigationContainer>

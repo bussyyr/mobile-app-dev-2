@@ -99,6 +99,36 @@ export default function HomeScreen({
         >
           Game Deals API
         </Button>
+
+        <Button
+          mode="outlined"
+          icon="headset"
+          onPress={() => navigation.navigate("Linking")}
+          style={styles.linkingButton}
+          contentStyle={styles.buttonContent}
+        >
+          Support & Links
+        </Button>
+
+        <Button
+          mode="outlined"
+          icon="axis-arrow"
+          onPress={() => navigation.navigate("Sensors")}
+          style={styles.sensorsButton}
+          contentStyle={styles.buttonContent}
+        >
+          Device Sensors
+        </Button>
+
+        <Button
+          mode="outlined"
+          icon="map-marker-radius-outline"
+          onPress={() => navigation.navigate("Location")}
+          style={styles.locationButton}
+          contentStyle={styles.buttonContent}
+        >
+          Nearby Location
+        </Button>
       </View>
     </View>
   );
@@ -155,6 +185,18 @@ const styles = StyleSheet.create({
   },
 
   apiButton: {
+    marginTop: 10,
+  },
+
+  linkingButton: {
+    marginTop: 10,
+  },
+
+  sensorsButton: {
+    marginTop: 10,
+  },
+
+  locationButton: {
     marginTop: 10,
   },
 
